@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "..\\sesion4"
+		},
+		{
+			"path": "..\\sesion5"
+		},
+		{
+			"path": "..\\sesion6"
+		},
+		{
+			"path": "..\\matcha"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\sesion8"
+		},
+		{
+			"path": "..\\checkpoint(repaso)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sesion7"
+	}
+}
