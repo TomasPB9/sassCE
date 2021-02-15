@@ -23,6 +23,7 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "sesion7"
+		"liveServer.settings.multiRootWorkspaceName": "sesion4",
+		"liveServer.settings.port": 5501
 	}
 }
